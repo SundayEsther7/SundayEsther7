@@ -1,40 +1,53 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Esther Sunday
-======================================================================================================================================
+# Esther Sunday 👋
 
-Aspiring Full-Stack Developer | UI/UX + Web Development Enthusiast
-------------------------------------------------------------------
+Full-Stack Developer | JavaScript & Python
 
-I’m Esther, a student passionate about technology, design, and building solutions that make an impact.
+Building modern web applications with a focus on performance, clean architecture, and intuitive user experiences.
 
-I’m pursuing \*\*full-stack development\*\*, focusing on full-stack development.
+---
 
-* 🌍  I'm based in Nairobi, Kenya
-* ✉️  You can contact me at [7sundayesther@gmail.com](mailto:7sundayesther@gmail.com)
-* 🧠  I'm currently learning how to combine design and development by working with GitHub, frontend technologies, and backend fundamentals.
-* 👥  I’m open to collaborating on open-source projects, academic work, and innovative ideas that combine design and development.
-* 🌍 I believe technology can create meaningful change, and I’m excited to contribute to projects that make a difference.
+## Selected Work
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" title="Git" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" alt="Figma" title="Figma" width="36" height="36" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" alt="Google Cloud" title="Google Cloud" width="36" height="36" /></a>
-</p>
+### UrbanGlide  
+Smart mobility web application for urban transportation  
 
-### Socials
+→ Designed to support e-scooter ride-sharing and smart commuting  
+→ Focused on user experience, accessibility, and real-world usability  
+→ Built as a scalable solution for modern urban environments  
 
-<p align="left"> <a href="https://www.github.com/SundayEsther7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://sundayesther.hashnode.dev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" alt="Hashnode" title="Hashnode" /> </picture> </a> <a href="http://www.medium.com/7sundayesther" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" alt="Medium" title="Medium" /> </picture> </a> <a href="https://www.dev.to/esthersunday" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" alt="DEV" title="DEV" /> </picture> </a> <a href="https://www.linkedin.com/in/esther-sindani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a> <a href="https://www.codepen.io/Esther-Sunday" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/codepen.svg" width="32" height="32" alt="CodePen" title="CodePen" /> </picture> </a> <a href="https://www.facebook.com/SundayEsther7" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-### Badges
+🔗 Live Demo: https://urbanglide.render.app  
 
-<b>My GitHub Stats</b>
+---
 
-<a href="http://www.github.com/SundayEsther7"><img src="https://github-readme-stats.vercel.app/api?username=SundayEsther7&show_icons=true&hide=&count_private=true&title_color=444e59&text_color=a855f7&icon_color=ffffff&bg_color=1c1917&hide_border=true&show_icons=true" alt="SundayEsther7's GitHub stats" /></a>
+## 🛠 Tech Stack
 
-<a href="http://www.github.com/SundayEsther7"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SundayEsther7&stroke=a855f7&background=1c1917&ring=444e59&fire=444e59&currStreakNum=a855f7&currStreakLabel=444e59&sideNums=a855f7&sideLabels=a855f7&dates=a855f7&hide_border=true" /></a>
+**Languages**  
+JavaScript · Python  
 
-<a href="https://github.com/SundayEsther7" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SundayEsther7&langs_count=10&title_color=444e59&text_color=a855f7&icon_color=ffffff&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+**Frontend**  
+HTML · CSS  
 
-### Support Me
+**Backend**  
+Node.js  
 
-<ul style="list-style-type: none; margin: 0;">
+**Tools & Workflow**  
+Git · VS Code  
 
-<li style="display: inline-block; margin-right: 0.25rem;"><a href="https://www.buymeacoffee.com/sundayesther7"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
+**Design**  
+Figma  
 
-</ul>
+---
+<!--
+## 📈 GitHub Stats
+
+![Esther's GitHub stats](https://github-readme-stats.vercel.app/api?username=SundayEsther7&show_icons=true&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SundayEsther7&layout=compact&hide_border=true)
+
+---
+-->
+## 📫 Contact
+
+- GitHub → https://github.com/SundayEsther7  
+<!--- LinkedIn → https://www.linkedin.com/in/esther-sunday  -->
+- Email → 7sundayesther@gmail.com  
