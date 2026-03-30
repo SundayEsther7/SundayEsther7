@@ -9,9 +9,9 @@ Building modern web applications with a focus on performance, clean architecture
 ## Selected Work
 
 ### UrbanGlide  
-Smart mobility web application for urban transportation  
+Smart mobility web application for skating  
 
-→ Designed to support e-scooter ride-sharing and smart commuting  
+→ Designed to support roller skating ride-sharing and smart commuting  
 → Focused on user experience, accessibility, and real-world usability  
 → Built as a scalable solution for modern urban environments  
 
